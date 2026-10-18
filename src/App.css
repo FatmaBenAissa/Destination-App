@@ -1,0 +1,49 @@
+.mynav{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 20px;
+}
+.mynav img{
+    width: 50px;
+    margin-right: 21px;
+    
+
+}
+.mynav span{
+    color: orange;
+}
+
+.logo{
+    display: flex;
+}
+
+.mynav input{
+    width: 500px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 10px;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    padding: 0 150px;
+}
+
+.mycontainer{
+    display: flex;
+    justify-content: space-between;
+}
+.right img{
+    width: 570px;
+    /* object-fit: cover; */
+    height: 607px;
+}
+
+
+.left{
+    width: 60%;
+}
